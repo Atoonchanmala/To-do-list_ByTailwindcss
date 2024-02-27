@@ -3,7 +3,7 @@
 
 @tailwind utilities;
 .done{
-    @apply bg-green-500 text-white font-semibold border-3 border-yellow-200 px-2 py-3 rounded-lg hover:bg-green-600
+    @apply bg-rose-300 text-white font-semibold border-3 border-blue-200 px-2 py-2 rounded-lg hover:bg-green-600
 }
 .delete{
     @apply hidden
